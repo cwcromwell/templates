@@ -1,0 +1,110 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@cwcromwell 
+1
+00cwcromwell/doc-templates
+ Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
+doc-templates
+/
+quickstart.md
+ 
+
+1
+​
+2
+## What is a Quickstart
+3
+​
+4
+* It should be a clear, concise, step-by-step procedure. (A set of numbered steps.)
+5
+* It should describe the easiest way to get the intended results from the API, as opposed to the most optimized production modes or the most advanced uses of the API. Another way to describe a quickstart is that it shows potential users what your API can do, rather than tell them; if they follow the steps, any benefits (and the ease of obtaining them) ought to be apparent. 
+6
+​
+7
+## Contents of Your Quickstart
+8
+​
+9
+### Prerequisites
+10
+* What knowledge do I need before I begin? What tasks must be completed (installation, configuring the environment?) 
+11
+* Where to get tokens or API keys, etc. if needed
+12
+​
+13
+### The Main Body Should Follow These Guidelines.  
+14
+​
+15
+* Start by telling users what the quickstart will do. What task does this guide help the reader to complete? 
+16
+* It should be explaining the basic operations that most users will want to perform on the site, or the operations they will perform when they use the API.
+17
+* Steps should be explained in the most logical order to complete a task
+18
+* Each step should contain all the information necessary to complete it. And the Quickstart should not contain any additional info that is not needed--because it will be easier to understand if it is as brief as possible. 
+19
+* A step should include code samples (examples) that users can copy and paste, if executing code is necessary. Each code sample should be explained in comments that follow directly after the example, so newcomers can quickly understand how the API works.
+20
+​
+21
+### The Quickstart Should Not Include: 
+22
+​
+23
+* Setup information. (This means info about everything you have to do to make your work environment compatible and ready for the API.) Sometimes setup and quickstart type information end up together in a single volume called a "Getting Started" guide (or something similar). That's not necessarily wrong, but there are advantages to keeping the two types of information separate; namely, there will be times when users no longer need the quickstart lesson, but they want the setup information because they are creating a work environment on a new machine.
+24
+* Things that belong in the reference section, like authentication, throttling, error codes, a complete description of any feature.
+25
+* Things that belong in the overview (a general description of the product; what it can do; what it can't do)
+26
+​
+27
+### Postrequisites
+28
+​
+29
+* What comes next?
+30
+​
+31
+## Links to Examples
+32
+​
+33
+* **Jekyll**. This SSG offers an excellent quickstart. Note that the setup info is in a separate document, but it is linked in the first step. https://jekyllrb.com/docs/
+34
+​
+35
+* **GitHub API**. This collection of quickstarts from GitHub is worth a look. https://developer.github.com/apps/quickstart-guides/
+36
+​
+@cwcromwell
+Commit changes
+Commit summary
+Update quickstart.md
+Optional extended description
+Add an optional extended description…
+ Commit directly to the master branch.
+ Create a new branch for this commit and start a pull request. Learn more about pull requests.
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
